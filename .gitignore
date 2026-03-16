@@ -1,0 +1,32 @@
+# 1. Python Environment and Cache
+__pycache__/
+*.py[cod]
+.venv/       
+env/
+.conda/      
+
+# 2. Deep Learning Model Checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+
+# 3. Datasets and Multimedia Files
+*.mp4       
+*.avi
+*.gif
+*.jpg
+*.png
+data/       
+datasets/
+
+# 4. Logs
+logs/
+wandb/      
+nohup.out
+*.log
+
+# 5. IDE Config
+.vscode/
+.idea/
