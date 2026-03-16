@@ -1,30 +1,10 @@
-# a = [10, 20, 30]
-# print(id(a))
-# print(id(a[0]))
-# print(id(a[1]))
-# print(id(a[2]))
+from functools import cmp_to_key
 
-# # a[2] = a[2] + 1
-# a[2] += 1
-# print(id(a))
-# print(id(a[0]))
-# print(id(a[1]))
-# print(id(a[2]))
+nums = [3, 30, 34, 5, 9]
 
+# 这里的 lambda 接收两个参数 x 和 y
+# 规则：如果转成字符串后 x+y < y+x，则返回 1（把 x 排在 y 后面），否则返回 -1
+# 从而实现将数字组合成最大数字的排序
+nums.sort(key=cmp_to_key(lambda x, y: 1 if str(x) + str(y) < str(y) + str(x) else -1))
 
-# b = [10, 20, [30, 40]]
-# print(id(b))
-# print(id((b[0])))
-# print(id(b[1]))
-# print(id(b[2]))
-
-# # b[2] = b[2] + 50
-# b[2] += [50]
-# print(id(b))
-# print(id((b[0])))
-# print(id(b[1]))
-# print(id(b[2]))
-
-a = [10, 20, 30, 40, 50, 60, 70, 80, 90]
-print(a[::-2])
-
+print(nums) # 输出: [9, 5, 34, 3, 30]
