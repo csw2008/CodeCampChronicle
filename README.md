@@ -20,7 +20,12 @@ This repository was created as I follow along with the data structures and algor
 | LeetCode | [LCR 170. 交易逆序对的总数](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [leetcodeLCR170.py](./src/Sorting/leetcodeLCR170.py) | inspired by MergeSort and taught by Teacher [Zuo](https://www.bilibili.com/video/BV13g41157hK?t=3685.5&p=4) |
 | LeetCode | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) <br> [56. 合并区间](https://leetcode.cn/problems/merge-intervals/) | [leetcode56.py](./src/Sorting/leetcode56.py) | Directly use `list.sort(key=..., reverse=...)` and lambda function to quickly sort the [int,int] |
 | LeetCode | [179. Largest Number](https://leetcode.com/problems/largest-number/) <br> [179. 最大数](https://leetcode.cn/problems/largest-number/) | [leetcode179.py](./src/Sorting/leetcode179.py) | Use `cmp_to_key` in advanced function tool `functools` and two-parameter lambda function to skillfully implement "cmp" function in `key` parameter |
+| Leetcode | [BM17. 二分查找-I](https://www.nowcoder.com/practice/d3df40bd23594118b57554129cadf47b?tpId=295&tqId=1499549&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page) | [nowcoderBM17.py](./src/Sorting/nowcoderBM17.py) | bisection method |
 
+
+
+
+> to be done: leetcode148
 
 
 ---
