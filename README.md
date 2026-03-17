@@ -25,6 +25,7 @@ This repository was created as I follow along with the data structures and algor
 | NowCoder | [BM19. 寻找峰值](https://www.nowcoder.com/practice/fcf87540c4f347bcb4cf720b5b350c76?tpId=295&tqId=2227748&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AC%2594%25E9%259D%25A2%25E8%25AF%2595%25E7%25AF%2587%26topicId%3D295) | Core Code Mode | [nowcoderBM19.py](./src/Sorting/nowcoderBM19.py) | bisection method, given the changing tendency |
 | NowCoder | [BM20. 数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=295&tqId=23260&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page) | Core Code Mode | [nowcoderBM20.py](./src/Sorting/nowcoderBM20.py) | same as [LeetCode LCR 170](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |
 | NowCoder | [BM21. 旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=295&tqId=23269&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page) | Core Code Mode | [nowcoderBM21.py](./src/Sorting/nowcoderBM21.py) | bisection method, only one side comparation |
+| NowCoder | [BM22. 比较版本号](https://www.nowcoder.com/practice/2b317e02f14247a49ffdbdba315459e7?tpId=295&tqId=1024572&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AC%2594%25E9%259D%25A2%25E8%25AF%2595%25E7%25AF%2587%26topicId%3D295) | Core Code Mode | [nowcoderBM22.py](./src/Sorting/nowcoderBM22.py) | `str.split()` |
 
 
 > to be done: leetcode148
