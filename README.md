@@ -29,16 +29,29 @@ This repository was created as I follow along with the data structures and algor
 
 
 > to be done: leetcode148
-
-
 ---
 
 ## 🔗 Linked List
 
-| Platform | Problem | Solution |
+| Platform | Problem | Problem Style | Solution | Solution Description |
 | :--- | :--- | :--- |
-| LeetCode | | |
-| LeetCode |  |  |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers) | Core Code Mode | [leetcode2.py](./src/LinkedList/leetcode2.py) | 链表基本操作 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [19. 删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | Core Code Mode | [leetcode19.py](./src/LinkedList/leetcode19.py) | 双指针，正数倒数转换 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | Core Code Mode | [leetcode21.py](./src/LinkedList//leetcode21.py) | 虚拟头节点，链表合并 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [23. 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | Core Code Mode | [leetcode23.py](./src/LinkedList/leetcode23.py) | 堆，实现一个包装类重载节点的小于魔法方法`__lt__` | 
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs) | Core Code Mode | [leetcode24.py](./src/LinkedList/leetcode24.py) | 虚拟头节点 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [25. K个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | Core Code Mode | [leetcode25.py](./src/LinkedList/leetcode25.py) | 链表的翻转 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [61. 旋转链表](https://leetcode.cn/problems/rotate-list/) | Core Code Mode | [leetcode61.py](./src/LinkedList/leetcode61.py) | 虚拟头节点 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [82. 删除排序链表中的重复元素II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) | Core Code Mode | [leetcode82.py](./src/LinkedList/leetcode82.py) | 虚拟头节点 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list) | Core Code Mode | [leetcode83.py](./src/LinkedList/leetcode83.py) | 虚拟头节点 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [86. 分隔链表](https://leetcode.cn/problems/partition-list) | Core Code Mode | [leetcode86.py](./src/LinkedList/leetcode86.py) | 链表的连接关系变换 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [92. 反转链表II](https://leetcode.cn/problems/reverse-linked-list-ii) | Core Code Mode | [leetcode92.py](./src/LinkedList/leetcode92.py) | 虚拟头节点，链表的翻转 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [138. 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer) | Core Code Mode | [leetcode138.py](./src/LinkedList/leetcode138.py) | 左神上课讲过额外空间O(1)的方法 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle) | Core Code Mode | [leetcode141.py](./src/LinkedList/leetcode141.py) | 快慢指针 |
+| LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [142. 环形链表II](https://leetcode.cn/problems/linked-list-cycle-ii) | Core Code Mode | [leetcode142.py](./src/LinkedList/leetcode142.py) | 快慢指针固定套路，记住 |
+
+
+
 
 ---
 
