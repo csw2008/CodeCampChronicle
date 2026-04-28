@@ -33,6 +33,8 @@ This repository was created as I follow along with the data structures and algor
 
 ## 🔗 Linked List
 
+> 单纯链表的题目，涉及到算法的很少，基本上都是coding的问题。链表的重点是把常见的各个操作练熟练，如虚拟头节点、链表翻转、链表复制、修改节点关系、双指针、节点排序等。
+
 | Platform | Problem | Problem Style | Solution | Solution Description |
 | :--- | :--- | :--- | :--- | :--- |
 | LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers) | Core Code Mode | [leetcode2.py](./src/LinkedList/leetcode2.py) | 链表基本操作 |
