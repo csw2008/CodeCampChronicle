@@ -34,7 +34,7 @@ This repository was created as I follow along with the data structures and algor
 ## 🔗 Linked List
 
 | Platform | Problem | Problem Style | Solution | Solution Description |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers) | Core Code Mode | [leetcode2.py](./src/LinkedList/leetcode2.py) | 链表基本操作 |
 | LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [19. 删除链表的倒数第N个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list) | Core Code Mode | [leetcode19.py](./src/LinkedList/leetcode19.py) | 双指针，正数倒数转换 |
 | LeetCode <br> [LinkedList](https://leetcode.cn/problem-list/linked-list/) | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists) | Core Code Mode | [leetcode21.py](./src/LinkedList//leetcode21.py) | 虚拟头节点，链表合并 |
